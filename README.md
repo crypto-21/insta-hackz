@@ -35,7 +35,7 @@ $ python3 cupp.py
  
  THE PASSWORDLIST WILL BE CREATED.
  
- $ LS
+ $ ls
  
  A DIRECTORY IS CREATED WITH YOUR (TARGET) NAME
  THEN CHANGE THE (target).txt  TO pass.txt
